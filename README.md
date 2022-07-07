@@ -5,7 +5,7 @@ The task for this challenge was to create a work day scheduler that shows the da
 
 Additionally, the timeblocks are color coded based on whether they are in the past, present, or future, relative to the current time.
 
-#### You can access this project via [GitHub](https://github.com/BrianLalli/Code-Quiz)
+#### You can access this project via [GitHub](https://brianlalli.github.io/Work-Day-Scheduler/)
 
 <br>
 
