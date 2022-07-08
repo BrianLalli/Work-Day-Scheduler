@@ -1,7 +1,7 @@
 # Work-Day-Scheduler
 
 ## Project Description:
-The task for this challenge was to create a work day scheduler that shows the date/time and presents timeblocks between standard business hours that can be used to save events using local storage. 
+The challenge was to create a work day scheduler that shows the date/time and presents timeblocks between standard business hours that can be used to save events using local storage. 
 
 Additionally, the timeblocks are color coded based on whether they are in the past, present, or future, relative to the current time.
 
