@@ -1,7 +1,7 @@
 # Work-Day-Scheduler
 
 ## Project Description:
-The challenge was to create a work day scheduler that shows the date/time and presents timeblocks between standard business hours that can be used to save events using local storage. 
+The challenge was to create a work day scheduler that shows the current date/time and presents timeblocks between standard business hours that can be used to save events using local storage. 
 
 Additionally, the timeblocks are color coded based on whether they are in the past, present, or future, relative to the current time.
 
@@ -13,7 +13,7 @@ Additionally, the timeblocks are color coded based on whether they are in the pa
 ![Mock Up](./assets/images/Mock%20Up.png)
 
 ## How It Works
-First, you are brought to a landing page showing you the time and day.
+First, you are brought to a landing page showing you the current time and day.
 ![Landing Page](./assets/images/Landing%20Page.png)
 
 Then, you can click into a timeblock and type an event.
@@ -22,7 +22,7 @@ Then, you can click into a timeblock and type an event.
 Next, click the save button to lock in your event.
 ![Save event button](./assets/images/Save%20Button.png)
 
-The colors represent whether that timeblock is in the past, present, or future relative to the current time.
+The colors represent whether that timeblock is in the past, present, or future, relative to the current time.
 ![Mock Up](./assets/images/Mock%20Up.png)
 
 <br>
